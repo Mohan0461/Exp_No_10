@@ -1,6 +1,3 @@
 [submodule "ExpNo10"]
 	path = ExpNo10
 	url = https://github.com/Mohan0461/ExpNo10.git
-[submodule "subdir"]
-	path = subdir
-	url = ./subdir
